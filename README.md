@@ -14,7 +14,7 @@ Para comenzar a usar EsLint en nuestro proyecto deberemos, en primer lugar, inst
 
 2. Instala los siguientes paquetes.
 
-`npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node`
+`npm i --save-dev eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node`
 
 `npx install-peerdeps --dev eslint-config-airbnb`
 
